@@ -1,0 +1,1 @@
+2025/05/02 16:18:14 [error] 27236#45680: *23441 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading response header from upstream, client: 127.0.0.1, server: , request: "POST /wp-cron.php?doing_wp_cron=1746195493.9225280284881591796875 HTTP/1.1", upstream: "fastcgi://127.0.0.1:10014", host: "petsittersnearme.local"
